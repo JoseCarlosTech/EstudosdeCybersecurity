@@ -1,7 +1,7 @@
 # Desenvolvimento de Sotware Linguagem JAVA
 Cursos e Treinamentos Plataforma DIO
 Digital Innovation One
-https://github.com/josecarlosdcj/dio-lab-open-source
+https://github.com/JoseCarlosTech/EstudosdeCybersecurity/blob/main/README.md#desenvolvimento-de-sotware-linguagem-java
 
 # EstudosdeCybersecurity
 Certificações Gratuitas de TI - Cybersecurity : https://github.com/cloudcommunity/Free-Certifications
