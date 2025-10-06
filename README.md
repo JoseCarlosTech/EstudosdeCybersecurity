@@ -1,6 +1,6 @@
 # Desenvolvimento de Sotware Linguagem JAVA
 Cursos e Treinamentos Plataforma DIO
-Digital Innovatoon One
+Digital Innovation One
 https://github.com/josecarlosdcj/dio-lab-open-source
 
 # EstudosdeCybersecurity
